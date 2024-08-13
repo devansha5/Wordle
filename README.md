@@ -40,9 +40,8 @@ open WordleClone.xcodeproj
 
 3. Build and run the project in the iOS Simulator or on a physical device.
 
-Usage
-
--Start the Game: The game begins by selecting a random word from the list.
--Make a Guess: Use the on-screen keyboard to input your guesses.
--Receive Feedback: After each guess, the boxes will change color to reflect the accuracy of your guess.
--Win or Lose: You have 6 attempts to guess the correct word. If you guess the word correctly, all boxes will turn green.
+Usage:
+   -Start the Game: The game begins by selecting a random word from the list.
+  -Make a Guess: Use the on-screen keyboard to input your guesses.
+  -Receive Feedback: After each guess, the boxes will change color to reflect the accuracy of your guess.
+  -Win or Lose: You have 6 attempts to guess the correct word. If you guess the word correctly, all boxes will     turn green.
